@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CSD04-main\CSD04\bin\Debug\net7.0\CSD04.exe
+C:\Users\Admin\Desktop\CSD04-main\CSD04\bin\Debug\net7.0\CSD04.deps.json
+C:\Users\Admin\Desktop\CSD04-main\CSD04\bin\Debug\net7.0\CSD04.runtimeconfig.json
+C:\Users\Admin\Desktop\CSD04-main\CSD04\bin\Debug\net7.0\CSD04.dll
+C:\Users\Admin\Desktop\CSD04-main\CSD04\bin\Debug\net7.0\CSD04.pdb
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.dll
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\refint\CSD04.dll
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.pdb
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\CSD04.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CSD04-main\CSD04\obj\Debug\net7.0\ref\CSD04.dll

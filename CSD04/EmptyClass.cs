@@ -101,6 +101,7 @@ class toSort
                 Console.Write(s_num[i]);
             }
         }
+        Console.ReadLine();
     }
     private static void QuickSort(int[] num,int begin , int end)
     {
@@ -130,4 +131,5 @@ class toSort
         num[i] = pivot;
         return i;
     }
+
 }
